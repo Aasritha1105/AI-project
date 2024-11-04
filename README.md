@@ -1,0 +1,1 @@
+Developing an advanced data visualization project utilizing Python libraries like matplotlib, seaborn and advanced libraries to perform comprehensive data analysis, feature extraction, and model training.
